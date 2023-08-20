@@ -17,10 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots
 
-![Screenshot (100)](https://github.com/trsrathnayaka/Firebase_Signin_Pages/assets/97075043/89c3c933-2923-4c4c-83a7-98a29cb7ffc5)
+![image](https://github.com/trsrathnayaka/Firebase_Signin_Pages/assets/97075043/7a6bbecc-aa56-4c53-9eb8-00450a0cda41)
 
-![Screenshot (101)](https://github.com/trsrathnayaka/Firebase_Signin_Pages/assets/97075043/5f71ea4c-684f-425f-8341-88519c7efb64)
-
+![Screenshot (101)](https://github.com/trsrathnayaka/Firebase_Signin_Pages/assets/97075043/fc7523f0-71ff-48de-bc96-0c142d87e25a)
 
 
  ### Used Languages
